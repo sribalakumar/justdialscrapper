@@ -4,13 +4,13 @@ Python Scraper and D3 visualization using Play 1.2.5
 This is a Play 1.2.5 app and the scraper written in python resides in app/controllers/JustDialScrap.py
 
 TO RUN SCRAPER
-#>cd app/controllers/
-#>python JustDialScrap.py
+repohome#>cd app/controllers/
+repohome#>python JustDialScrap.py
 City: <user input>
 Category: <user input> 
 
 Example:
-#>python JustDialScrap.py
+repohome#>python JustDialScrap.py
 city: chennai
 Category: cabs
 
